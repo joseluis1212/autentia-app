@@ -1,0 +1,16 @@
+{
+  "name": "Autentia",
+  "short_name": "Autentia",
+  "description": "Coach de comunicación con IA, 100% gratis",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0a1a",
+  "theme_color": "#ff4d8f",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
